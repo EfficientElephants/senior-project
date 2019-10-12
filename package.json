@@ -14,9 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server-start": "node server.js && react-scripts start"
   },
-  "proxy": "http://localhost:8080",
   "eslintConfig": {
     "extends": "react-app"
   },
